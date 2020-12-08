@@ -1,5 +1,7 @@
 # Blockchain Commons `$projectname`
 
+### _by $major-authors_
+
 **`$ProjectDescription`** is …
 
 ## Additional Information
