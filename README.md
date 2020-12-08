@@ -48,6 +48,14 @@ These are other projects that work with or leverage `$projectname`:
 
 To financially support further development of `$projectname` and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
 
+### Project Sponsors
+
+Thanks to our project sponsors for their support of `$projectname`:
+
+$sponsor-logo-with-link
+
+$sponsor-description
+
 ## Contributing
 
 We encourage public contributions through issues and pull requests! Please review [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our development process. All contributions to this repository require a GPG signed [Contributor License Agreement](./CLA.md).
