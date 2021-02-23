@@ -40,13 +40,31 @@ To build  `$projectname` you'll need to use the following tools:
 
 - autotools - Gnu Build System from Free Software Foundation ([intro](https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html)).
 
-### Derived from…
+### Libraries
+
+The following external libraries are used with `$projectname`:
+
+- [community/repo-name](https://github.com/community/repo-name) — What the library does (use OR fork [version] OR include [version]).
+
+Libraries may be marked as `use` (the current version of the library is used), `fork` (a specific version has been forked to the BCC repos for usage), or `include` (files from a specific version have been included).
+
+### Derived from ...
 
 This  `$projectname` project is either derived from or was inspired by:
 
 - [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com).
 
-### Used with…
+## Subsequent Usage
+
+### Used by ...
+
+These are other projects that directly use `$projectname`:
+
+- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com)(use OR fork [version] OR include [version]).
+
+Libraries may be marked as `use` (the current version of our repo is used), `fork` (a specific version of our repo has been forked for usage), or `include` (files from a specific version of our repo have been included).
+
+### Used with ...
 
 These are other projects that work with or leverage `$projectname`:
 
