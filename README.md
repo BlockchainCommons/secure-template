@@ -56,6 +56,12 @@ This  `$projectname` project is either derived from or was inspired by:
 
 ## Subsequent Usage
 
+### Adapted by ...
+
+These are adaptations, conversions, and wrappers that make `$projectname` available for other languages:
+
+- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com)(language).
+
 ### Used by ...
 
 These are other projects that directly use `$projectname`:
