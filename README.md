@@ -1,5 +1,7 @@
 # Blockchain Commons `$projectname`
 
+<!--Guidelines: https://github.com/BlockchainCommons/secure-template/wiki -->
+
 ### _by $major-authors_
 
 **`$ProjectDescription`** is …
@@ -18,7 +20,7 @@ The following files contain…
 
 ## Prerequisites
 
-## Insllation Instructions
+## Installation Instructions
 
 ## Usage Instructions
 
