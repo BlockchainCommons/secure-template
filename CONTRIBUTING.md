@@ -47,12 +47,28 @@ We ask that more significant improvements to the project be first proposed befor
 
 We use [Github Flow](https://guides.github.com/introduction/flow/index.html). When you submit Pull Requests, please:
 
-1. Fork the repo and create your branch from `master`.
-2. If you've added code that should be tested, add tests.
-3. If you've changed APIs, update the documentation.
-4. Ensure the test suite passes.
-5. Make sure your code lints.
-6. Issue that Pull Request!
+1. Sign the [Contributor License Agreement (CLA.md)](./CLA.md) first.
+2. Fork the repo and create your branch from `master`.
+3. Add code with [GPG signed commits](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits).
+4. If you've added code that should be tested, add tests.
+5. If you've changed APIs, update the documentation.
+6. Ensure the test suite passes.
+7. Make sure your code lints.
+8. Issue that Pull Request!
+9. Make sure you've checked the ["allow edit from maintainers" checkbox](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork#enabling-repository-maintainer-permissions-on-existing-pull-requests).
+
+#### Pull Request Reviewing and Editing - Maintainers
+
+The easiest way for repository maintainers to review/edit Pull Request is through [GitHub CLI](https://cli.github.com/). The review/edit flow for maintainers should be:
+
+1. Make sure [GitHub CLI](https://cli.github.com/) is installed locally.
+2. Find the PR to be reviewed/edited and run the `gh pr checkout <PR-number>` command locally in the CLI. It will checkout the PR into a new branch locally.
+3. Update the Pull Request with signed commits.
+4. Run `git push` to send your changes to the upstream PR.
+
+All commits in the PR, from either party, should be signed.
+
+This method will work if PR creator did previous section's step number 9 (which is usually already enabled by default).
 
 ### Submit Under the BSD-2-Clause Plus Patent License
 
