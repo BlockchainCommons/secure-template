@@ -12,6 +12,10 @@ The following files contain…
 
 * `$ListOfEssentialDocs`
 
+## Installation Instructions
+
+## Usage Instructions
+
 ## Gordian Principles
 
 ` $projectname` is a reference implementation meant to display the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), which are philosophical and technical underpinnings to Blockchain Commons' Gordian technology. This includes:
@@ -25,17 +29,13 @@ Blockchain Commons apps do not phone home and do not run ads. Some are available
 
 `REMOVE THIS SECTION UNLESS THIS IS A REFERENCE APP MEANT TO DEMONSTRATE GORDIAN PRINCIPLES`
 
-## Status - Late Alpha
+## Status - Alpha
 
-` $projectname`  is currently under active development and in the late alpha testing phase. It should not be used for production tasks until it has had further testing and auditing.
+` $projectname`  is currently under active development and in the alpha testing phase. It should not be used for production tasks until it has had further testing and auditing. See [Blockchain Commons' Development Phases](https://github.com/BlockchainCommons/Community/blob/master/release-path.md).
+
+### Version History
 
 ### Roadmap
-
-## Prerequisites
-
-## Installation Instructions
-
-## Usage Instructions
 
 ## Origin, Authors, Copyright & Licenses
 
@@ -54,6 +54,10 @@ This table below also establishes provenance (repository of origin, permalink, a
 To build  `$projectname` you'll need to use the following tools:
 
 - autotools - Gnu Build System from Free Software Foundation ([intro](https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html)).
+
+Other prerequisites include:
+
+...
 
 ### Libraries
 
